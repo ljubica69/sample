@@ -1,0 +1,11 @@
+h1 {
+    color: brown;
+    text-align: center;
+    border-bottom: 2px dashed chocolate;
+
+}
+
+h2 {
+    margin-left: 20px;
+    color: green;
+}
